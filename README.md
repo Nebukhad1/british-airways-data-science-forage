@@ -293,33 +293,20 @@ text
 \## 🗂️ Repository Structure
 
 british-airways-data-science-forage/
-
 │
-
-├── 📓 Predicting\_Customer\_Buying\_Behaviour.ipynb # Main notebook
-
-├── 📄 customer\_booking.csv # Dataset (50K records)
-
-├── 📄 README.md # Documentation
-
-├── 📄 requirements.txt # Dependencies
-
-├── 📄 LICENSE # MIT License
-
+├── 📓 Predicting_Customer_Buying_Behaviour.ipynb   # Jupyter Notebook (download & run)
+├── 📄 Predicting_Customer_Buying_Behaviour.py      # Python script (preview on GitHub)
+├── 📄 customer_booking.csv                          # Dataset (50K records)
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📄 LICENSE
 │
-
 └── 📊 outputs/
-
-├── confusion\_matrix.png # Confusion Matrix
-
-├── roc\_curve.png # ROC Curve (AUC visualization)
-
-├── feature\_importance.png # Top 10 Features
-
-├── cv\_scores.png # Cross-Validation Scores
-
-└── feature\_importance\_all.png # All Features
-
+    ├── confusion_matrix.png
+    ├── roc_curve.png
+    ├── feature_importance.png
+    ├── cv_scores.png
+    └── feature_importance_all.png
 
 
 text
